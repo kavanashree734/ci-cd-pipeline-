@@ -2,8 +2,7 @@ name: Deploy HTML Site
 
 on:
   push:
-    branches:
-      - main
+
 
 permissions:
   contents: read
